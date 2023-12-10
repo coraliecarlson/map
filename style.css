@@ -88,7 +88,7 @@ figcaption {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 h1 {
-     font-size: 72px; /* larger font for big screens */
+     font-size: 80px; /* larger font for big screens */
 }
 
 .flex {
@@ -99,7 +99,7 @@ h1 {
     }    
 
 .lead_image {
-    max-width: 60%;
+    max-width: 100%;
 }
 .container{
     max-width: 1200px; /* This limits the size on big screens */
