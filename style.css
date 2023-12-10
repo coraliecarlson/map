@@ -88,12 +88,10 @@ figcaption {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
 h1 {
-     font-size: 80px; /* larger font for big screens */
+     font-size: 75px; /* larger font for big screens */
 }
 
 .flex {
-    padding: 10px;
-    justify-content: space-around;
     width: 70%;
     margin: auto;
     }    
